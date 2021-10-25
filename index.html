@@ -1,0 +1,60 @@
+<html>
+<head>
+    <meta content="width=device-width, user-scalable=no" name="viewport">
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <meta content="yes" name="mobile-web-app-capable">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+
+    <title>Keyboard Bug</title>
+
+    <!-- Chrome Manifest -->
+    <link href="manifest.json" rel="manifest">
+
+    <style>
+        html, body {
+            position: fixed;
+            overflow: hidden;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            overscroll-behavior-y: none;
+        }
+
+        .content {
+            width: 100vw;
+            height: 100vh;
+            overflow-y: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+
+    </style>
+</head>
+
+<body>
+
+<div class="content">
+    <p>1</p>
+    <input type="text">
+    <p>2</p>
+    <input type="text">
+    <p>3</p>
+    <input type="text">
+    <p>4</p>
+    <input type="text">
+    <p>5</p>
+    <input type="text">
+    <p>6</p>
+    <input type="text">
+    <p>7</p>
+    <input type="text">
+    <p>8</p>
+    <input type="text">
+    <p>9</p>
+    <input type="text">
+    <p>10</p>
+    <input type="text">
+</div>
+</body>
+</html>

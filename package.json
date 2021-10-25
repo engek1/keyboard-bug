@@ -1,0 +1,14 @@
+{
+  "name": "keyboard-bug",
+  "version": "1.0.0",
+  "description": "showcase for keyboard bug",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KEn@ims.ch",
+  "license": "MIT License",
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
+}
