@@ -29,6 +29,8 @@ https://engek1.github.io/keyboard-bug/index.html
 
 ## Demo Videos
 
+https://engek1.github.io/keyboard-bug/demo.html
+
 [No bug in Safari](./media/nobug-demo.mp4)
 
 [Bug when installed as PWA](./media/bug-demo.mp4)
