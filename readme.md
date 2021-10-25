@@ -1,6 +1,6 @@
 # Keyboard Bug
 
-This Project describes an unexpected and extremly unpleasant behavior of the WebKit Web View on iPad OS 14.0/14.1 we experienced in one of our Customers PWA.
+This Project describes an unexpected and extremly unpleasant behavior of the WebKit Web View on iPad Pro (9.7 inch) OS 15.0.2 we experienced in one of our Customers PWA.
 I created this Project in order to demonstrate the behavior without any unneccessary content around, that could have influenced the behaviour unindentedly.
 Unfortunately the Bug only appears when the App is installed on the Homescreen but not in any of the available Browsers (which all use WebKit engine on iPad OS) like Chrome or Firefox. 
 
